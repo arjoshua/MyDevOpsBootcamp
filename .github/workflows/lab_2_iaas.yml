@@ -9,7 +9,7 @@ name: Lab_2_IaaS
 
 env:
   RG_NAME: WCPC-DevOps-lab-2
-  LOCATION: eastus2
+  LOCATION: westus2
 
 jobs:
 
